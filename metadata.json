@@ -1,0 +1,12 @@
+{
+  "name": "todom-lookup_demo",
+  "version": "1.0.0",
+  "author": "Timothy Odom",
+  "summary": "This module demos using hieradata within a module",
+  "license": "Apache-2.0",
+  "source": "ssh://git@stash.grubhub.com:7999/~todom/lookup_demo.git",
+  "project_page": "ssh://git@stash.grubhub.com:7999/~todom/lookup_demo.git",
+  "issues_url": "ssh://git@stash.grubhub.com:7999/~todom/lookup_demo.git",
+  "dependencies": []
+}
+

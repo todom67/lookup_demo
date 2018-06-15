@@ -1,0 +1,3 @@
+---
+lookup_demo::everyone_setting: "WE ALL LIVE IN A YELLOW SUBMARINE"
+lookup_demo::explicit: "This is an explicit lookup from COMMON rather than OS family..."
